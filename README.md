@@ -7,4 +7,3 @@ Scraping links of google search results of specific keywords in python without A
 - Pandas
 - Numpy
 - time
-- re
